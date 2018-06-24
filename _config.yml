@@ -16,7 +16,7 @@
 title: The Insights
 email: r.prasidha@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The insights magazaine is the group of online magazines covering the topics of education, spirituality and travel.
+  The insights magazine is the group of online magazines covering the topics of education, spirituality and travel.
   baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
